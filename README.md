@@ -2,7 +2,7 @@
 
 > **Risk-Aware AI Agent with Internal Critic, Self-Consistency Reasoning, & Uncertainty Estimation**
 
-![Risk Assessor Action](https://raw.githubusercontent.com/aniket/insurance-risk-assessor/main/images/title-animation.gif)
+![Risk Assessor Action](https://raw.githubusercontent.com/aniket-work/insurance-risk-assessor/main/images/title-animation.gif)
 
 ## Overview
 
@@ -12,7 +12,7 @@ By blending multiple reasoning paths with an adversarial critic model, the syste
 
 ## 🏗 System Architecture
 
-![Architecture](https://raw.githubusercontent.com/aniket/insurance-risk-assessor/main/images/architecture_diagram.png)
+![Architecture](https://raw.githubusercontent.com/aniket-work/insurance-risk-assessor/main/images/architecture_diagram.png)
 
 ### Key Agent Components
 1. **Self-Consistency Engine**: Queries language models across dynamically rotated focuses (e.g., *Medical History*, *Time of Incident*). Simulates multi-agent consensus vs. relying on a zero-shot result.
@@ -21,7 +21,7 @@ By blending multiple reasoning paths with an adversarial critic model, the syste
 
 ## 🚀 The Execution Flow
 
-![Process Flow](https://raw.githubusercontent.com/aniket/insurance-risk-assessor/main/images/flow_diagram.png)
+![Process Flow](https://raw.githubusercontent.com/aniket-work/insurance-risk-assessor/main/images/flow_diagram.png)
 
 The workflow consists of four steps. Let's trace it given a mocked auto collision claim:
 
@@ -36,7 +36,7 @@ The workflow consists of four steps. Let's trace it given a mocked auto collisio
 
 ```bash
 # Clone the repository
-git clone https://github.com/aniket/insurance-risk-assessor.git
+git clone https://github.com/aniket-work/insurance-risk-assessor.git
 cd insurance-risk-assessor
 
 # Install dependencies
