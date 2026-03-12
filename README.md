@@ -4,6 +4,8 @@
 
 ![Risk Assessor Action](https://raw.githubusercontent.com/aniket-work/insurance-risk-assessor/main/images/title-animation.gif)
 
+![Title Diagram](https://raw.githubusercontent.com/aniket-work/insurance-risk-assessor/main/images/title_diagram.png)
+
 ## Overview
 
 Applying autonomous agents to high-stakes environments requires robust self-correction mechanisms. This project demonstrates an experimental **Risk-Aware AI Agent** designed for the insurance sector to evaluate ambiguous auto collision claims.
