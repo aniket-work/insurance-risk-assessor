@@ -82,7 +82,7 @@ FINAL RISK ASSESSMENT REPORT
 
 ## Agent Communication Protocol
 
-![Sequence](https://raw.githubusercontent.com/aniket/insurance-risk-assessor/main/images/sequence_diagram.png)
+![Sequence](https://raw.githubusercontent.com/aniket-work/insurance-risk-assessor/main/images/sequence_diagram.png)
 
 ## ⚠️ Disclaimer
 
